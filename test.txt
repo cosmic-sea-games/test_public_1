@@ -2,3 +2,4 @@ jesli mozesz to przeczytac to git
 
 wprowadz swoje zmiany ponizej
 kurwaaa mac jak to dziala wkoncu
+ok probujemy kolejny komit
